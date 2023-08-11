@@ -1,5 +1,5 @@
 # CRC-Project
-Network Science (CRC) Course Project (Grade: 17.5/20) - IST - 2020/2021
+Network Science (CRC) Course Project (Grade: 17.5/20) - IST - 2021/2022
 
 # CRC
 Evolution of Fairness in Different Networks
